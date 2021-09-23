@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://vinefiner.github.io/vinefiner-blog/"
 title = "休息的风"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2016-{year} Vine. All Rights Reserved."
